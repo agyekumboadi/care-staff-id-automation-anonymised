@@ -205,3 +205,26 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# ---- Privacy / sensitive exports (do not commit) ----
+**/real_*
+**/*real*
+**/*staff*
+**/*employee*
+**/*users*
+**/*export*
+**/*backup*
+
+# Block common data formats anywhere (allow only sample_ files in /data)
+*.xlsx
+*.xls
+*.csv
+*.json
+*.txt
+*.log
+
+!data/sample_*.csv
+!data/schema*.md
+!data/*_template.*
+!data/config_example.json
+
