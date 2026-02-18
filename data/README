@@ -1,18 +1,1 @@
-# data
-
-This folder contains **anonymised dataset only** used to demonstrate the staff ID automation workflow.
-
-Allowed:
-- Example CSV files with fictional names
-- Schema/column definitions
-- Template files required for ID formatting
-
-Not allowed:
-- Any real staff personal data (names, phone numbers, addresses, DOB, NI numbers, emails)
-- Any operational exports from internal HR systems
-
-## Recommended files
-- `UQC-STAFF_ID.csv` – anonymised sample staff rows
-- `schema.md` – column definitions and validation rules
-- `config_example.json` – example configuration (if relevant)
 
