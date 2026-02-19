@@ -1,4 +1,4 @@
-# Anonymised Care Provider — Staff ID Registration Automation
+# Anonymised Care Provider - Staff ID Registration Automation
 
 An end-to-end **staff registration + unique Staff ID** automation designed for an **anonymised care provider** workflow.
 
