@@ -98,8 +98,8 @@ See: [`assets/README.md`](assets/README.md)
 
 ## Repo contents
 
-- `/assets` — screenshot evidence of the workflow
-- `/data` — schema notes + guidance for creating anonymised sample data
+- `/assets` - screenshot evidence of the workflow
+- `/data` - schema notes + guidance for creating anonymised sample data
 
 ---
 
