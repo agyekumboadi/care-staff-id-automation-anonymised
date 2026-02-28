@@ -9,7 +9,7 @@ This folder contains **implementation evidence** screenshots for the anonymised 
 
 ---
 
-## 1) Apps Script — unique ID generation
+## 1) Apps Script - unique ID generation
 
 - **`AppScript_UQC_ID1.jpeg`**  
   Shows the Apps Script project and functions used to generate and append a unique Staff ID to the Google Sheet.
@@ -19,14 +19,14 @@ This folder contains **implementation evidence** screenshots for the anonymised 
 
 ---
 
-## 2) Google Forms — staff registration entry point
+## 2) Google Forms - staff registration entry point
 
 - **`UQC_StaffID_GoogleForms.jpeg`**  
   The registration form used to capture staff details (minimal fields for onboarding).
 
 ---
 
-## 3) Google Sheets — registration database (anonymised)
+## 3) Google Sheets - registration database (anonymised)
 
 - **`UQC_StaffID_Data1(Anonymised).jpeg`**  
   Anonymised responses sheet showing the main columns (Timestamp, Full Name, Mobile Number, Email Address, Merge status, Staff ID).
@@ -36,7 +36,7 @@ This folder contains **implementation evidence** screenshots for the anonymised 
 
 ---
 
-## 4) YAMM — email template + delivery rules
+## 4) YAMM - email template + delivery rules
 
 - **`Template_Email_for YAMM_to_fetch_from.jpeg`**  
   Email template used for sending the Staff ID to the registrant using merge tags (e.g., name, Staff ID).
@@ -49,7 +49,7 @@ This folder contains **implementation evidence** screenshots for the anonymised 
 
 ---
 
-## 5) IFTTT (Optional) — push notification for new registration rows
+## 5) IFTTT (Optional) - push notification for new registration rows
 
 - **`IFTTT_Integration1.jpeg`**  
   Applet overview: trigger is “new row added to spreadsheet”, action is “send notification”.
