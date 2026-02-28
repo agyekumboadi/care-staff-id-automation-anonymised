@@ -25,7 +25,7 @@ Suggested minimum schema (based on the workflow evidence):
 ## Anonymised sample data guidance
 
 If you add sample data files later, keep them strictly anonymised:
-- Use anonymised/sample type names (e.g., “Test User 01”)
+- Use anonymised/placeholder names (e.g., “Test User 01”)
 - Use reserved example domains (e.g., `example.com`)
 - Use dummy numbers (never real phone numbers)
 - Remove any internal links, addresses, or IDs that trace back to real systems
